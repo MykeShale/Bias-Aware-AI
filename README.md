@@ -62,12 +62,13 @@ bias-aware-ai/
 │   └── mike_case2_facial_recognition_policing.md
 │
 ├── part3_audit/                               # Assigned: Tshimo
-│   ├── tshimo_compas_audit.ipynb
+│   ├── compas_audit.ipynb
 │   ├── data/
-│   │   └── compas-scores-two-years.csv
+│   │   └── compas.db
 │   ├── visualizations/
-│   │   ├── tshimo_false_positive_rates.png
-│   │   └── tshimo_risk_score_distribution.png
+│   │   ├── False_Negative_Rate.png
+│   │   ├── False_Positive_Rate.png
+│   │   └── Receiver_Operating_Characteristic_Curve.png
 │   └── tshimo_audit_report.md
 │
 ├── tshimo_ethical_reflection.md               # Assigned: Tshimo
