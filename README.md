@@ -173,7 +173,6 @@ pip install -r requirements.txt
 
 - Mike: [GitHub](https://github.com/MykeShale)
 - Violet: [GitHub](https://github.com/violetwanjiru)
-- Lukhanyo: [GitHub](https://github.com/Luu-17)
 - Tshimo: [GitHub](https://github.com/TshimoHlapane)
 
 
